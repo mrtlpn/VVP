@@ -2,7 +2,7 @@
 Vědecké výpočty v Pythonu
 
 ## Student Information
-**Name:** Vsevolod Kucheriavyi 
+**Name:** Vsevolod Kucheriavyi  
 **University:** VSB – Technical University of Ostrava  
 **Faculty:** FEI  
 **Study Program:** VAM  
