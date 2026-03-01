@@ -2,4 +2,10 @@
 
 Toto je repozitář pro odevzdávání domácích úkolů do předmětu Vědecké Výpočty v Pythonu. 
 
-Autor: Vsevolod Kucheriavyi a KUC0389.
+## Student Information
+**Name:** Vsevolod Kucheriavyi  
+**University:** VSB – Technical University of Ostrava  
+**Faculty:** FEI  
+**Study Program:** VAM  
+**Academic Year:** 2025/2026  
+**Semester:** Summer  
