@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-První soubor ve větvi main
-=======
-První soubor ve větvi funkce2
->>>>>>> funkce2
